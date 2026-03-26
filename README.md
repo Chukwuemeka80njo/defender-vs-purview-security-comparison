@@ -77,4 +77,4 @@ Skills Demonstrated
 
 ---
 
-## 📂 Repository Structure
+Repository Structure
